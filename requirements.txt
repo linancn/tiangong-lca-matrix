@@ -1,0 +1,7 @@
+cupy-cuda12x
+fastapi
+itsdangerous
+jinja2
+python-dotenv
+toml
+uvicorn[standard]
